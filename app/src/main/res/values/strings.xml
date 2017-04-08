@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string-array name="language_list">
+        <item>English</item>
+        <item>Française</item>
+        <item>日本語</item>
+        <item>Deutsch</item>
+        <item>Español</item>
+        <item>Português</item>
+        <item>Italiano</item>
+        <item>简体中国</item>
+    </string-array>
+</resources>
